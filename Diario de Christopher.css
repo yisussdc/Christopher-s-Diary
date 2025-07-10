@@ -1,0 +1,33 @@
+
+.center{
+    width: 18vw;
+    margin: auto;
+    background-color: white;
+}
+#title{
+    font-size: 2cm ;
+}
+.personal{
+    width: 400px
+}
+#lyrics{
+    color: black;
+}
+.just{
+    text-align: justify;
+}
+.centro{
+    text-align: center;
+}
+.titulo2{
+    font-size: 20px;
+}
+.texto{
+    font-size: 10px;
+}
+.titulo3{
+    font-size: 15px;
+}
+.typelyric{
+    font-family: "calibri";
+}
